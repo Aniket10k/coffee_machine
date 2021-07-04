@@ -2,7 +2,7 @@
 
 Start it as a springboot application
 
-Rest Endpoint:
+<h3>Rest Endpoint</h3>
 
 1. Base Path - http://localhost:8080/serve
 2. Method - POST
@@ -54,3 +54,7 @@ Rest Endpoint:
   	  }
 	}
 </code>
+
+<h3>Coverage</h3>
+<br/>
+<img src="src/main/resources/test_coverage.png"/>
