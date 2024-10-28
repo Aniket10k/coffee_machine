@@ -1,5 +1,11 @@
 <h1>Coffee Machine</h1>
 
+<h2>Question</h2>
+
+https://github.com/Aniket10k/coffee_machine/blob/master/System_Coding_Assignment_-_SE_II_Backend.pdf
+
+<h2>Answer</h2>
+
 Start it as a springboot application
 
 <h3>Rest Endpoint</h3>
